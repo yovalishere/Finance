@@ -10,6 +10,11 @@ used for prediction performance comparison. They are :
 4) Random Forest 
 5) XGBoost
 
+### Data description
+The dataset is a record of customer default payment in Taiwan in October 2005. It is retrieved from [UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/datasets/default+of+credit+card+clients).
+It consists of 30,000 rows of data. There are 24 variables in total which correspond to 23 
+dependent variables and 1 independent variable.
+
 ### Project findings
 **PAY_1** (payment delay for 1 month) and **PAY_2** (payment delay for 2 months) are the most important features found by the optimal model.
 <img src="https://github.com/yovalishere/Finance/blob/main/Credit%20Risk%20Scorecard%20Analysis/Feature%20importance%20from%20Random%20Forest.jpg" width="450" height="350" /><br>
