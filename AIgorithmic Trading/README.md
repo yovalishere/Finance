@@ -8,7 +8,12 @@ Google (GOOG) trading data is used priliminarily as the data source.
 #### Algorithms involved (keep updating):
 Univariate time series:
   - ARIMA <br>
-  - XGBoost <br><br>
+  - XGBoost <br>
+  
+Multivariate:<br> 
+  - Web scraping<br> 
+  - PySpark<br> 
+  - K-means clustering 
 
 ### Data description
 Data is fetched real time from YahooFinance via API. <br>
