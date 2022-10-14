@@ -1,4 +1,4 @@
-# Algorithm Trading (Ongoing)
+# Algorithmic Trading (Ongoing)
 
 
 ### Project description
