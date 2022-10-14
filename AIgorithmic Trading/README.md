@@ -6,7 +6,9 @@ This project aims at exploring different time series algorithms on stock trading
 Google (GOOG) trading data is used priliminarily as the data source.
 
 #### Algorithms involved (keep updating):
-- ARIMA <br><br>
+Univariate time series:
+  - ARIMA <br>
+  - XGBoost <br><br>
 
 ### Data description
 Data is fetched real time from YahooFinance via API. <br>
